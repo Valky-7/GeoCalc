@@ -37,7 +37,9 @@ body{
     justify-content:center;
     align-items:center; 
     padding:50px;
-    
+    padding-top: 120px;
+    padding-bottom: 120px;
+
 }
 
 header {
