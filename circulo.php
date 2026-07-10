@@ -46,10 +46,6 @@
 
     <br>
 
-    <a href="index.php" class="voltar">
-        Voltar ao Menu
-    </a>
-
     <footer>
         <nav>
             <a href="triangulo.php">Anterior</a>

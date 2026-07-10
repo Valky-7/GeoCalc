@@ -48,10 +48,6 @@
 
     <br>
 
-    <a href="index.php" class="voltar">
-        Voltar ao Menu
-    </a>
-
     <footer>
         <nav>
             <a href="quadrado.php">Anterior</a>
