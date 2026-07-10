@@ -7,6 +7,11 @@
         <link rel ="stylesheet" href="style.css"> 
     </head>
     <body>
+
+        <header>
+            <h1>GeoCalc</h1>
+        </header>
+
         <h2>GeoCalc - Volume do Cilindro</h2>
         <p><strong>Descrição:</strong> A área da base circular multiplicada pela altura do cilindro.</p>
         <p><strong>Fórmula:</strong> V = π × r² × h</p>
@@ -48,7 +53,13 @@
     <a href="index.php" class="voltar">
         Voltar ao Menu
     </a>
-
+    <footer>
+        <nav>
+            <a href="paralelepipedo.php">Anterior</a>
+            <a href="index.php">Menu Principal</a>
+            <a href="cone.php">Próximo</a>
+        </nav>
+    </footer>
 
     </body>
     </html>

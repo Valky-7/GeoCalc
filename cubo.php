@@ -7,6 +7,11 @@
         <link rel ="stylesheet" href="style.css">
     </head>
     <body>
+        
+         <header>
+            <h1>GeoCalc</h1>
+        </header>
+
         <h2>GeoCalc - Volume do Cubo</h2>
         <p><strong>Descrição:</strong> A aresta elevada ao cubo.</p>
         <p><strong>Fórmula:</strong> V = a³</p>
@@ -43,6 +48,13 @@
         Voltar ao Menu
     </a>
 
+    <footer>
+        <nav>
+            <a href="trapezio.php">Anterior</a>
+            <a href="index.php">Menu Principal</a>
+            <a href="paralelepipedo.php">Próximo</a>
+        </nav>
+    </footer>
 
     </body>
     </html>

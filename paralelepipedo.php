@@ -7,6 +7,11 @@
         <link rel ="stylesheet" href="style.css">
     </head>
     <body>
+        
+         <header>
+            <h1>GeoCalc</h1>
+        </header>
+
         <h2>GeoCalc - Volume do Paralelepípedo</h2>
         <p><strong>Descrição:</strong> O produto das três dimensões do bloco.</p>
         <p><strong>Fórmula:</strong> V = c × l × h</p>
@@ -52,6 +57,13 @@
         Voltar ao Menu
     </a>
 
+    <footer>
+        <nav>
+            <a href="cubo.php">Anterior</a>
+            <a href="index.php">Menu Principal</a>
+            <a href="cilindro.php">Próximo</a>
+        </nav>
+    </footer>
 
     </body>
     </html>

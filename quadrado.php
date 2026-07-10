@@ -7,6 +7,11 @@
         <link rel ="stylesheet" href="style.css">
     </head>
     <body>
+        
+         <header>
+            <h1>GeoCalc</h1>
+        </header>
+
         <h2>GeoCalc - Área do quadrado</h2>
         <p><strong>Descrição:</strong> A área do quadrado é calculada multiplicando a medida de um lado por ele mesmo. </p>
         <p><strong>Fórmula:</strong> A = Lado² (A = l²)</p>
@@ -43,6 +48,13 @@
         Voltar ao Menu
     </a>
 
+    <footer>
+        <nav>
+            <a href="index.php">Anterior</a>
+            <a href="index.php">Menu Principal</a>
+            <a href="retangulo.php">Próximo</a>
+        </nav>
+    </footer>
 
     </body>
     </html>

@@ -7,6 +7,11 @@
         <link rel ="stylesheet" href="style.css">
     </head>
     <body>
+
+        <header>
+            <h1>GeoCalc</h1>
+        </header>
+
         <h2>GeoCalc - Volume da Esfera</h2>
         <p><strong>Descrição:</strong> Quatro terços de Pi multiplicando pelo raio do seu cubo.</p>
         <p><strong>Fórmula:</strong> V = (4/3) × π × r³</p>
@@ -47,6 +52,13 @@
         Voltar ao Menu
     </a>
 
+    <footer>
+        <nav>
+            <a href="cone.php">Anterior</a>
+            <a href="index.php">Menu Principal</a>
+            <a href="quadrado.php">Próximo</a>
+        </nav>
+    </footer>
 
     </body>
     </html>

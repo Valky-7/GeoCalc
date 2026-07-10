@@ -7,6 +7,11 @@
         <link rel ="stylesheet" href="style.css"> 
     </head>
     <body>
+        
+         <header>
+            <h1>GeoCalc</h1>
+        </header>
+
         <h2>GeoCalc - Volume do Cone</h2>
         <p><strong>Descrição:</strong> Um terço do volume de um cilindro com as mesmas dimensões.</p>
         <p><strong>Fórmula:</strong> V = (π × r² × h) / 3</p>
@@ -50,6 +55,13 @@
         Voltar ao Menu
     </a>
 
+    <footer>
+        <nav>
+            <a href="cilindro.php">Anterior</a>
+            <a href="index.php">Menu Principal</a>
+            <a href="esfera.php">Próximo</a>
+        </nav>
+    </footer>    
 
     </body>
     </html>

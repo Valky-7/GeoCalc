@@ -7,6 +7,11 @@
         <link rel ="stylesheet" href="style.css">
     </head>
     <body>
+        
+         <header>
+            <h1>GeoCalc</h1>
+        </header>
+
         <h2>GeoCalc - Área do Triângulo</h2>
         <p><strong>Descrição:</strong> Metade do produto da base pela altura. </p>
         <p><strong>Fórmula:</strong> A = (b × h) / 2 </p>
@@ -48,6 +53,13 @@
         Voltar ao Menu
     </a>
 
+    <footer>
+        <nav>
+            <a href="retangulo.php">Anterior</a>
+            <a href="index.php">Menu Principal</a>
+            <a href="circulo.php">Próximo</a>
+        </nav>
+    </footer>
 
     </body>
     </html>

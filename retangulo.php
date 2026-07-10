@@ -7,6 +7,11 @@
         <link rel ="stylesheet" href="style.css">
     </head>
     <body>
+        
+         <header>
+            <h1>GeoCalc</h1>
+        </header>
+
         <h2>GeoCalc - Área do Retângulo</h2>
         <p><strong>Descrição:</strong> Produto da base pela altura. </p>
         <p><strong>Fórmula:</strong> A = b × h</p>
@@ -47,6 +52,12 @@
         Voltar ao Menu
     </a>
 
-
+    <footer>
+        <nav>
+            <a href="quadrado.php">Anterior</a>
+            <a href="index.php">Menu Principal</a>
+            <a href="triangulo.php">Próximo</a>
+        </nav>
+    </footer>
     </body>
     </html>

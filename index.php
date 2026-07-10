@@ -9,6 +9,10 @@
 
 <body>
 
+<header>
+    <h1>GeoCalc</h1>
+</header>
+
 <div class="container">
 
     <h1>GeoCalc</h1>
@@ -73,6 +77,14 @@
     </div>
 
 </div>
+
+<footer>
+    <nav>
+        <a href="index.php">Anterior</a>
+        <a href="index.php">Menu Principal</a>
+        <a href="quadrado.php">Próximo</a>
+    </nav>
+</footer>
 
 </body>
 </html>

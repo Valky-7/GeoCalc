@@ -7,6 +7,11 @@
          <link rel ="stylesheet" href="style.css"> 
     </head>
     <body>
+        
+         <header>
+            <h1>GeoCalc</h1>
+        </header>
+
         <h2>GeoCalc - Área do Círculo</h2>
         <p><strong>Descrição:</strong> O valor de Pi multiplicado pelo quadrado do raio.</p>
         <p><strong>Fórmula:</strong> A = π × r² </p>
@@ -45,6 +50,13 @@
         Voltar ao Menu
     </a>
 
-
+    <footer>
+        <nav>
+            <a href="triangulo.php">Anterior</a>
+            <a href="index.php">Menu Principal</a>
+            <a href="trapezio.php">Próximo</a>
+        </nav>
+    </footer>
+    
     </body>
     </html>
