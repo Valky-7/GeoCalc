@@ -658,10 +658,6 @@ footer a:hover{
 
 }
 
-/* ==============================
-   RESPONSIVO EXTRA
-============================== */
-
 @media(max-width:900px){
 
     .menu{
@@ -706,10 +702,6 @@ footer a:hover{
 
 }
 
-/* ==========================================================
-   PARTE 4 - COMPONENTES AVANÇADOS
-========================================================== */
-
 .card-outline{
     border:1px solid rgba(255,255,255,.12);
     background:rgba(255,255,255,.02);
@@ -734,7 +726,6 @@ footer a:hover{
     0 0 40px rgba(109,93,252,.25);
 }
 
-/* ========================= */
 
 .icon-circle{
 
@@ -764,7 +755,6 @@ footer a:hover{
 
 }
 
-/* ========================= */
 
 .title-gradient{
 
@@ -780,8 +770,6 @@ footer a:hover{
 
 }
 
-/* ========================= */
-
 .subtitle{
 
     color:var(--muted);
@@ -795,8 +783,6 @@ footer a:hover{
     margin-bottom:40px;
 
 }
-
-/* ========================= */
 
 .separator{
 
@@ -816,8 +802,6 @@ footer a:hover{
 
 }
 
-/* ========================= */
-
 .box{
 
     padding:30px;
@@ -830,15 +814,11 @@ footer a:hover{
 
 }
 
-/* ========================= */
-
 .box:hover{
 
     border-color:rgba(109,93,252,.25);
 
 }
-
-/* ========================= */
 
 .info{
 
@@ -849,8 +829,6 @@ footer a:hover{
     align-items:center;
 
 }
-
-/* ========================= */
 
 .info-icon{
 
@@ -872,23 +850,17 @@ footer a:hover{
 
 }
 
-/* ========================= */
-
 .info-text{
 
     flex:1;
 
 }
 
-/* ========================= */
-
 .info-text h3{
 
     margin-bottom:8px;
 
 }
-
-/* ========================= */
 
 .grid-2{
 
@@ -900,8 +872,6 @@ footer a:hover{
 
 }
 
-/* ========================= */
-
 .grid-3{
 
     display:grid;
@@ -912,8 +882,6 @@ footer a:hover{
 
 }
 
-/* ========================= */
-
 .grid-4{
 
     display:grid;
@@ -923,8 +891,6 @@ footer a:hover{
     gap:20px;
 
 }
-
-/* ========================= */
 
 .flex{
 
@@ -952,8 +918,6 @@ footer a:hover{
 
 }
 
-/* ========================= */
-
 .avatar{
 
     width:55px;
@@ -969,8 +933,6 @@ footer a:hover{
     var(--secondary));
 
 }
-
-/* ========================= */
 
 .tag{
 
@@ -990,8 +952,6 @@ footer a:hover{
 
 }
 
-/* ========================= */
-
 .highlight{
 
     color:var(--secondary);
@@ -1009,8 +969,6 @@ footer a:hover{
     color:var(--primary);
 
 }
-
-/* ========================= */
 
 .border{
 
@@ -1036,8 +994,6 @@ footer a:hover{
 
 }
 
-/* ========================= */
-
 .blur{
 
     backdrop-filter:blur(16px);
@@ -1061,12 +1017,6 @@ footer a:hover{
     border-radius:30px;
 
 }
-
-/* ==========================================================
-   PARTE 5 - COMPONENTES PREMIUM
-========================================================== */
-
-/* ALERTAS */
 
 .alert{
 
@@ -1114,8 +1064,6 @@ footer a:hover{
 
 }
 
-/* ============================= */
-
 .progress{
 
     width:100%;
@@ -1155,8 +1103,6 @@ footer a:hover{
 
 }
 
-/* ============================= */
-
 .loader{
 
     width:60px;
@@ -1184,8 +1130,6 @@ footer a:hover{
     }
 
 }
-
-/* ============================= */
 
 .tooltip{
 
@@ -1231,8 +1175,6 @@ footer a:hover{
 
 }
 
-/* ============================= */
-
 .skeleton{
 
     background:
@@ -1263,8 +1205,6 @@ footer a:hover{
     }
 
 }
-
-/* ============================= */
 
 .timeline{
 
@@ -1318,8 +1258,6 @@ footer a:hover{
 
 }
 
-/* ============================= */
-
 .stat{
 
     padding:30px;
@@ -1356,8 +1294,6 @@ footer a:hover{
 
 }
 
-/* ============================= */
-
 .table-modern{
 
     overflow:hidden;
@@ -1385,8 +1321,6 @@ footer a:hover{
     background:rgba(255,255,255,.04);
 
 }
-
-/* ============================= */
 
 .ribbon{
 
@@ -1417,8 +1351,6 @@ footer a:hover{
 
 }
 
-/* ============================= */
-
 .pulse{
 
     animation:pulse 2s infinite;
@@ -1447,8 +1379,6 @@ footer a:hover{
 
 }
 
-/* ============================= */
-
 .float{
 
     animation:float 5s ease-in-out infinite;
@@ -1476,8 +1406,6 @@ footer a:hover{
     }
 
 }
-
-/* ============================= */
 
 .rotate:hover{
 
@@ -1515,8 +1443,6 @@ footer a:hover{
 
 }
 
-/* ============================= */
-
 .shadow-sm{
 
     box-shadow:0 8px 20px rgba(0,0,0,.2);
@@ -1541,8 +1467,6 @@ footer a:hover{
 
 }
 
-/* ============================= */
-
 .glow-primary{
 
     box-shadow:
@@ -1556,8 +1480,6 @@ footer a:hover{
     0 0 25px rgba(0,212,255,.35);
 
 }
-
-/* ============================= */
 
 .transition{
 
