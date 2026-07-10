@@ -15,8 +15,6 @@
 
 <div class="container">
 
-    <h1>GeoCalc</h1>
-
     <p class="descricao">
         Plataforma para cálculo de áreas e volumes utilizando PHP.
         Escolha uma figura abaixo para iniciar.

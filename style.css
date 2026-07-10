@@ -27,21 +27,18 @@
 body{
 
     font-family:"Inter",sans-serif;
-
     background:
     radial-gradient(circle at top left,#6C63FF22,transparent 35%),
     radial-gradient(circle at bottom right,#00D4FF22,transparent 40%),
     linear-gradient(145deg,#08090d,#11151f);
-
     color:var(--text);
-
     min-height:100vh;
-
     display:flex;
     justify-content:center;
-    align-items:center;
-
+    align-items:center; 
     padding:50px;
+    padding-top: 120px;
+    padding-bottom: 120px;
 
 }
 
@@ -92,12 +89,9 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    
-    /* Fundo integrado ao tema */
     background: rgba(12, 15, 22, 0.75);
     backdrop-filter: blur(24px);
     -webkit-backdrop-filter: blur(24px);
-    
     padding: 10px;
     border-radius: 50px;
     border: 1px solid rgba(255, 255, 255, 0.05);
@@ -145,7 +139,8 @@ footer .home:hover {
     flex-direction: column;
     justify-content: center;
     animation:fade .7s ease;
-
+    padding-top: 120px;
+    padding-bottom: 120px;
 
 }
 
