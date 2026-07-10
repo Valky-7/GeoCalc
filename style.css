@@ -33,19 +33,17 @@ body{
     linear-gradient(145deg,#08090d,#11151f);
     color:var(--text);
     min-height:100vh;
-    display: block;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    padding: 0;
+    margin: 0;
 
 }
 
 header {
 
-    position: fixed;
-    top: 25px;
-    left: 50%;
-    transform: translateX(-50%);
     width: min(1150px, 92%);
+    margin: 25px auto 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -78,11 +76,10 @@ header h1 {
 }
 
 footer {
-    position: fixed;
-    bottom: 30px;
-    left: 50%;
-    transform: translateX(-50%);
+
     width: min(700px, 90%);
+    margin: 20px auto 25px auto;
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -137,6 +134,7 @@ footer .home:hover {
     justify-content: center;
     animation: fade .7s ease;
     min-height: auto; 
+    padding: 40px 0;
 
 }
 
